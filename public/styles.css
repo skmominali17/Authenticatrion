@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+
+button{
+    margin: 1rem;
+    padding: 1em 3em;
+    border: none;
+    border-radius: 30px;
+    background-color: black;
+    color: yellow;
+}
+
+h1{
+    font-size: 3rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+#input{
+    margin: 1rem;
+    width: 200px;
+}
